@@ -23,3 +23,9 @@
     <h3 align="center">PROJECT 4: Exponentiation With Recursive </h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika_Java101_Week2/master/src/ProjectImages/exponent-with-recursive.PNG" alt="exponent">
 </div>
+
+---
+<div align="center">
+    <h3 align="center">PROJECT 5: Check Prime Number With Recursive </h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika_Java101_Week2/master/src/ProjectImages/prime-number.PNG" alt="prime-number">
+</div>
