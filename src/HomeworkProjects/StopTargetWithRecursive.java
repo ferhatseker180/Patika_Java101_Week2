@@ -26,8 +26,6 @@ public class StopTargetWithRecursive {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter The Number: ");
         int number = input.nextInt();
-        int temp = number;
-
         numberProcess(number);
 
         // Classic Technical
