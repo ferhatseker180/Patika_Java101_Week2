@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class CalculateMachine {
 
+    // This function is a increment operator
     public static void plus() {
         Scanner input = new Scanner(System.in);
         System.out.print("How many numbers will you enter: ");
@@ -17,6 +18,7 @@ public class CalculateMachine {
         System.out.println("Result = " + result);
     }
 
+    // This function is a reduce operator
     public static void minus() {
         Scanner input = new Scanner(System.in);
         System.out.print("How many numbers will you enter: ");
@@ -35,6 +37,7 @@ public class CalculateMachine {
         System.out.println("Result = " + result);
     }
 
+    // This function is a multiplication operator
     public static void times() {
         Scanner input = new Scanner(System.in);
         System.out.print("How many numbers will you enter: ");
@@ -55,6 +58,7 @@ public class CalculateMachine {
         System.out.println("Result = " + result);
     }
 
+    // This function is a divide operator
     public static void divided() {
 
         Scanner input = new Scanner(System.in);
@@ -77,6 +81,7 @@ public class CalculateMachine {
         System.out.println("Result = " + result);
     }
 
+    // This function performs exponentiation
     public static void power() {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the base value: ");
@@ -90,6 +95,7 @@ public class CalculateMachine {
         System.out.println("Result = " + result);
     }
 
+    // This function performs factorial retrieval
     public static void factorial() {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the number to be factored: ");
@@ -101,6 +107,7 @@ public class CalculateMachine {
         System.out.println("Result = " + result);
     }
 
+    // This function performs mode retrieval
     public static void takeMod() {
 
         Scanner input = new Scanner(System.in);
@@ -113,6 +120,7 @@ public class CalculateMachine {
         System.out.println("Result = " + result);
     }
 
+    // This function calculates the perimeter and area of the rectangle
     public static void calculateRectangle() {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the first edge length: ");
@@ -134,12 +142,16 @@ public class CalculateMachine {
 
     public static void main(String[] args) {
 
+        // Import Scanner
         Scanner input = new Scanner(System.in);
+        // Our choises variable
         int select;
+        // Create Menu Options
         String menu = "1- Toplama İşlemi\n" + "2- Çıkarma İşlemi\n" + "3- Çarpma İşlemi\n"
                 + "4- Bölme işlemi\n" + "5- Üslü Sayı Hesaplama\n" + "6- Faktoriyel Hesaplama\n"
                 + "7- Mod Alma\n" + "8- Dikdörtgen Alan ve Çevre Hesabı\n" + "0- Çıkış Yap";
 
+        // Control our choises
         do {
             System.out.println(menu);
             System.out.print("Which operation do you choose: ");
