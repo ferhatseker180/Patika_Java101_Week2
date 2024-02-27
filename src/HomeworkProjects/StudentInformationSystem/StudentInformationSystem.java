@@ -30,9 +30,9 @@ public class StudentInformationSystem {
         s2.isPass();
 
         Student s3 = new Student("Hüsrev Ağa","247",145365147,mat,physics,chemical);
-        s2.addBulkExamNote(60,40,100);
-        s2.addSpokenExamNote(60,40,100);
-        s2.isPass();
+        s3.addBulkExamNote(60,40,100);
+        s3.addSpokenExamNote(60,40,100);
+        s3.isPass();
 
     }
 }
