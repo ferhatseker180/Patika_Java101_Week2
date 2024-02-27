@@ -35,3 +35,9 @@
     <h3 align="center">PROJECT 6: Decrease-Increase With Recursive </h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika_Java101_Week2/master/src/ProjectImages/decrease-increase-recursive.PNG" alt="decrease-increase-recursive">
 </div>
+
+---
+<div align="center">
+    <h3 align="center">PROJECT 7: Education Management System</h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika_Java101_Week2/master/src/ProjectImages/student-information-system.PNG" alt="education-management-system">
+</div>
