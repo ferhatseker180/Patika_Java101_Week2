@@ -41,3 +41,9 @@
     <h3 align="center">PROJECT 7: Education Management System</h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika_Java101_Week2/master/src/ProjectImages/student-information-system.PNG" alt="education-management-system">
 </div>
+
+---
+<div align="center">
+    <h3 align="center">PROJECT 8: Boxing Match Simulation</h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika_Java101_Week2/master/src/ProjectImages/boxing-fight.PNG" alt="boxing-match">
+</div>
