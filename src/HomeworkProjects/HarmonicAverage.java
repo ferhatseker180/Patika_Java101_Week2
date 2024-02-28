@@ -1,7 +1,5 @@
 package HomeworkProjects;
 
-import java.util.Scanner;
-
 public class HarmonicAverage {
     public static void main(String[] args) {
          // Create variable and series
