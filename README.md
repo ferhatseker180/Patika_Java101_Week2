@@ -53,3 +53,9 @@
     <h3 align="center">PROJECT 9: Calculate Employee Salary System</h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika_Java101_Week2/master/src/ProjectImages/employee-salary.PNG" alt="employee-salary">
 </div>
+
+---
+<div align="center">
+    <h3 align="center">PROJECT 10: Find Closest Min And Max Value In Array </h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika_Java101_Week2/master/src/ProjectImages/min-max-array.PNG" alt="min-max">
+</div>
