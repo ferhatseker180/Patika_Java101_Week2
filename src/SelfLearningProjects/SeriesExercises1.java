@@ -1,7 +1,5 @@
 package SelfLearningProjects;
 
-import java.util.Scanner;
-
 public class SeriesExercises1 {
     public static void main(String[] args) {
 
