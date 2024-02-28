@@ -4,26 +4,22 @@ import java.util.Scanner;
 
 public class HarmonicAverage {
     public static void main(String[] args) {
-
-
-        Scanner input = new Scanner(System.in);
-        System.out.print("Enter The Number: ");
-        int number = input.nextInt();
+         // Create variable and series
         double sum = 0.0;
-        double[] harmonic = new double[number];
+        double[] harmonic = {2.3, 3.2, 5.2, 4.8, 6.1};
 
-        for (double i = 0; i<harmonic.length; i++){
+        // We are defining our harmonic variable into i and we sum all of them
+        for (int i = 0; i < harmonic.length; i++) {
 
-             // sum += (1/i);
-            System.out.print(1/i + " ");
+            sum += 1 / harmonic[i];
         }
-        double average = number / sum;
-      //  System.out.println("Harmonic Numbers Average: " + average);
-
+        // Average formul
+        double average = harmonic.length / sum;
+        System.out.println(average);
 
 
         /*
-        // define variable
+       Classic Technical:
         int number;
         double result = 0.0;
 
