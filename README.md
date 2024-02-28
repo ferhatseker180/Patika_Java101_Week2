@@ -47,3 +47,9 @@
     <h3 align="center">PROJECT 8: Boxing Match Simulation</h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika_Java101_Week2/master/src/ProjectImages/boxing-fight.PNG" alt="boxing-match">
 </div>
+
+---
+<div align="center">
+    <h3 align="center">PROJECT 9: Calculate Employee Salary System</h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika_Java101_Week2/master/src/ProjectImages/employee-salary.PNG" alt="employee-salary">
+</div>
