@@ -65,3 +65,9 @@
     <h3 align="center">PROJECT 11: Draw Letter B With Array </h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika_Java101_Week2/master/src/ProjectImages/B-Letter.PNG" alt="letter-b">
 </div>
+
+---
+<div align="center">
+    <h3 align="center">PROJECT 12: Repeat Number In Array </h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika_Java101_Week2/master/src/ProjectImages/repeat-number.PNG" alt="repeat-number">
+</div>
