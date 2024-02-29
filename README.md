@@ -71,3 +71,9 @@
     <h3 align="center">PROJECT 12: Repeat Number In Array </h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika_Java101_Week2/master/src/ProjectImages/repeat-number.PNG" alt="repeat-number">
 </div>
+
+---
+<div align="center">
+    <h3 align="center">PROJECT 13: Sort Elements In Array </h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika_Java101_Week2/master/src/ProjectImages/sort-array.PNG" alt="sort-elements">
+</div>
