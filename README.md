@@ -59,3 +59,9 @@
     <h3 align="center">PROJECT 10: Find Closest Min And Max Value In Array </h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika_Java101_Week2/master/src/ProjectImages/min-max-array.PNG" alt="min-max">
 </div>
+
+---
+<div align="center">
+    <h3 align="center">PROJECT 11: Draw Letter B With Array </h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika_Java101_Week2/master/src/ProjectImages/B-Letter.PNG" alt="letter-b">
+</div>
