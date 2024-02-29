@@ -1,7 +1,5 @@
 package HomeworkProjects;
 
-import java.util.Arrays;
-
 public class MatrisTranspoz {
     public static void main(String[] args) {
 
