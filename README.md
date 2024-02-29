@@ -83,3 +83,9 @@
     <h3 align="center">PROJECT 14: Find Frequency Of Number </h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika_Java101_Week2/master/src/ProjectImages/frequency-numbers.PNG" alt="number-frequency">
 </div>
+
+---
+<div align="center">
+    <h3 align="center">PROJECT 14: Find Transpoze Of Matrix </h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika_Java101_Week2/master/src/ProjectImages/matrix-transpoze.PNG" alt="transpoze-of-matrix">
+</div>
