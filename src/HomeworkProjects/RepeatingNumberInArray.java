@@ -1,7 +1,5 @@
 package HomeworkProjects;
 
-import java.util.Arrays;
-
 public class RepeatingNumberInArray {
     static boolean isFind(int[] arr, int value) {
         for (int i : arr) {
