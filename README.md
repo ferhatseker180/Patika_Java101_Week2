@@ -77,3 +77,9 @@
     <h3 align="center">PROJECT 13: Sort Elements In Array </h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika_Java101_Week2/master/src/ProjectImages/sort-array.PNG" alt="sort-elements">
 </div>
+
+---
+<div align="center">
+    <h3 align="center">PROJECT 14: Find Frequency Of Number </h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika_Java101_Week2/master/src/ProjectImages/frequency-numbers.PNG" alt="number-frequency">
+</div>
